@@ -1,2 +1,1 @@
-# dewans-app
- 
+# A simple Maven hello-world example 
